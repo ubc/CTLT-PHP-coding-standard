@@ -57,7 +57,7 @@
         <exclude name="Generic.Files.LineLength"/>
 
         <!-- do not check camel caps for variables. CakePHP doesn't like it-->
-        <eclude name="Zend.NamingConventions.ValidVariableName.NotCamelCaps"/>
+        <exclude name="Zend.NamingConventions.ValidVariableName.NotCamelCaps"/>
     </rule>
 
     <!-- Don't enforce Zend's private member underscores -->
