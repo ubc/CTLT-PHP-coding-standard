@@ -1,0 +1,21 @@
+{
+    "name": "ubc/ctlt-coding-standard",
+    "description": "CTLT PHP CodeSniffer Coding Standard",
+    "keywords": ["phpcs", "CodeSniffer", "Symfony2", "Standard", "ctlt"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pan Luo",
+            "role": "maintainer"
+        }
+    ],
+    "support" : {
+        "source": "https://github.com/ubc/CTLT-PHP-coding-standard",
+        "issues": "https://github.com/ubc/CTLT-PHP-coding-standard/issues"
+    },
+    "suggest": {
+        "squizlabs/php_codesniffer": "PHP CodeSniffer",
+        "m6web/coke": "PHP CodeSniffer configurator",
+        "m6web/symfony2-coding-standard": "Symfony2 PHP CodeSniffer Coding Standard"
+    }
+}
